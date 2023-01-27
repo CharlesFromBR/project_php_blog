@@ -17,10 +17,10 @@ include_once("template/footer.php")
 </head>
 
 <body>
-     <div class="parent-container">
-     <div class ="content-title-contato"><h1>Entre em contato</h1>
-     <p>Preencha o formulário abaixo para entrar em contato conosco.</p>
+     
+     <div class ="content-title-contato"><h1>Entre em contato:</h1>
     </div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
     <div class="form-container">
     <form>
@@ -36,7 +36,6 @@ include_once("template/footer.php")
   <input type="submit" value="Submit">
 </form>
     </div>
-     </div>
 
 
 

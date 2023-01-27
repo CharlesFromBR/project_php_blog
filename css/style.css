@@ -207,6 +207,7 @@ form {
 /* post */
 /* deiaxr os espacos entre eles */
 #post-container {
+    
     display: grid; 
     grid-template-columns: 75% 25%;
     grid-template-columns: auto;
